@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580675005128.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4169155974",
+    "id" : "611997CE",
+    "lastKnownWriteTime" : 1580675735,
+    "last_content_update" : 1580675735156,
+    "path" : "~/Desktop/blog/content/blog/your-nonprofit-doesnt-care.Rmd",
+    "project_path" : "content/blog/your-nonprofit-doesnt-care.Rmd",
+    "properties" : {
+        "cursorPosition" : "23,138",
+        "scrollLine" : "16"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
