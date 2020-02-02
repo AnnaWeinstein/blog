@@ -1,0 +1,154 @@
+# banner
+banner:
+  title : "This is a website."
+
+# about
+about:
+  enable : true
+  content : "Here is some stuff about how great I am."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Nonprofits"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Communications"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "Graphic Design"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Video Production"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Senior Communications Lead"
+      company : "Clean Foundation"
+      duration : "August 2016 - Present"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Director of Centre and Group Support"
+      company : "Shambhala International"
+      duration : "May 2011 - December 2015"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Centre Services Coordinator"
+      company : "Shambhala Europe"
+      duration : "October 2006 - June 2009"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Masters in Media, Peace and Conflict"
+      year : "2010"
+      academy : "United Nations-mandated University for Peace"
+      
+    - title : "Bachelor of Arts"
+      year : "2004"
+      academy : "Wesleyan University"
+      
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "Communications and Marketing"
+      icon : "ti-palette"
+      content : "Specializing in communication for nonprofits. From creating strategies to the nitty gritty of social media management, I can do it all."
+      highlighted : false
+
+    - title : "Product Management"
+      icon : "ti-vector"
+      content : "I've shepherded and developed products from mobile apps to sustainable employment social networks."
+      highlighted : true
+
+    - title : "Development"
+      icon : "ti-money"
+      content : "From membership growth to major capital campaigns, I help put organizations on stable financial footing."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder

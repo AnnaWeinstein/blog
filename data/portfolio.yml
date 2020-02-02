@@ -1,0 +1,31 @@
+# portfolio item
+item:
+  - image : "images/portfolio/item-1.png"
+    project_url : "#"
+    category: "design" 
+      
+  - image : "images/portfolio/item-2.png"
+    project_url : "https://youtu.be/W7nLCavDcQA"
+    category: "audio/video"
+      
+  - image : "images/portfolio/item-3.png"
+    project_url : "https://youtu.be/OdUrP6Ilxcw"
+    category: "audio/video"
+      
+  - image : "images/portfolio/item-4.png"
+    project_url : "#"
+    category: "design"
+      
+  - image : "images/portfolio/item-5.png"
+    project_url : "https://podcasts.google.com/?feed=aHR0cHM6Ly9jb21tdW5pY2F0aW9uczEyNTkwLnBvZG9tYXRpYy5jb20vcnNzMi54bWw&episode=aHR0cHM6Ly9jb21tdW5pY2F0aW9uczEyNTkwLnBvZG9tYXRpYy5jb20vZW50cnkvMjAxNy0wNC0yMVQxMl8yMF8zNy0wN18wMA&hl=en-CA"
+    category: "audio/video"
+
+  - image : "images/portfolio/item-6.png"
+    project_url : "http://richardreoch.info/"
+    category: "web development"
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  title : "My Clients"
+  # clients logo comes from 'data/homepage.yml' file
