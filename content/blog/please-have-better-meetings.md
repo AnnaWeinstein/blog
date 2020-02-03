@@ -15,7 +15,7 @@ This sounds really stupid, because obviously things begin and end. But having cl
 
 ### Have an agenda
 
-Even if the agenda is as simple as "Review project xyz" or "Get to know each other," it is a simple kindness to let people know what the meeting is about. This helps ensure that people are prepared, that the right people are be in the room, and that the meeting doesn't scope-creep itself into confusion ("Wait, why are we talking about the new website? I thought this meeting was about project xyz? [Colleague] should really be here if we're going to talk about the new website.")
+Even if the agenda is as simple as "Review project xyz" or "Get to know each other," it is a simple kindness to let people know what the meeting is about. This helps ensure that people are prepared, that the right people can be in the room, and that the meeting doesn't scope-creep itself into confusion ("Wait, why are we talking about the new website? I thought this meeting was about project xyz? [Colleague] should really be here if we're going to talk about the new website.")
 
 ### Summarize any decisions and tasks before the meeting ends
 
