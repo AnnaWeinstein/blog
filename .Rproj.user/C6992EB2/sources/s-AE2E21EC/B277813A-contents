@@ -58,10 +58,10 @@ home = "Home"
 logo = "images/logo.png"
 # theme color
 theme_color = "#900C3F"
-# contact info
+# contact me
 email = "anna@shotwell.ca"
 # meta description
-author = "Anna Weinstein Shotwell"
+author = "Anna Weinstein"
 description = "This is meta description"
 # google analitycs
 google_analitycs_id = "Your ID"

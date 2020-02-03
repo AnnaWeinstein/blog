@@ -1,15 +1,14 @@
 # banner
 banner:
-  title : "Anna Weinstein"
-  subtitle: "Finding inspiration in a pessimistic world"
+  title : ""
 
 # about
 about:
   enable : true
-  content : "Here is some stuff about how great I am."
+  content : "My name is Anna Weinstein. Welcome to my website! I specialize in communications and marketing for nonprofit organizations and other mission-driven entities."
   button:
     enable : true
-    label : "know more"
+    label : "Read more"
     URL : "about"
 
 # skill
@@ -55,7 +54,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Masters in Media, Peace and Conflict"
@@ -79,12 +78,12 @@ service:
 
     - title : "Product Management"
       icon : "ti-vector"
-      content : "I've shepherded and developed products from mobile apps to sustainable employment social networks."
+      content : "I've shepherded and developed technical and marketing products from mobile apps to sustainable employment social networks."
       highlighted : false
 
     - title : "Development"
       icon : "ti-money"
-      content : "From membership growth to major capital campaigns, I help put organizations on stable financial footing."
+      content : "From membership growth to major capital campaigns, I help put organizations on stable financial footing based on trackable data and effective communications."
       highlighted : true
 
 # portfolio

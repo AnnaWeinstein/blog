@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1580676574283.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1517579135",
     "id" : "77FF2660",
-    "lastKnownWriteTime" : 1580676673,
-    "last_content_update" : 1580676725528,
+    "lastKnownWriteTime" : 1580738963,
+    "last_content_update" : 1580738963233,
     "path" : "~/Desktop/blog/content/about/_index.md",
     "project_path" : "content/about/_index.md",
     "properties" : {
-        "cursorPosition" : "11,1",
-        "scrollLine" : "0"
+        "cursorPosition" : "13,121",
+        "scrollLine" : "8"
     },
     "read_only" : false,
     "read_only_alternatives" : [
