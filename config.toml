@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://vigorous-payne-028fca.netlify.com/"
+baseURL = "https://annaweinstein.info/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
