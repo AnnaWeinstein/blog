@@ -6,9 +6,11 @@ categories: ["blog"]
 tags: ["nonprofit", "advice", "leadership"]
 image: images/blog/DSC00514.jpg
 ---
-If you've made the decision to work at a nonprofit, it's likely because you want your job to have more meaning than just a paycheck. The pervasive narrative around working for a nonprofit is that we make a decision to accept low wages in exchange for the privilege of working for a cause that we care deeply about. Our assumption is that, because we've all signed up for the same thing in pursuit of making a difference, we have a shared understanding of the non-financial ways in which we expect to be compensated and appreciated. But I'm here to tell you: **we're going to have a much better experience if we do the job we are paid to do.**
+If you've made the decision to work at a nonprofit, it's likely because you want your job to have more meaning than just a paycheck. The pervasive narrative around working for a nonprofit is that we make a decision to accept low wages in exchange for the privilege of working for a cause that we care deeply about. Our assumption is that, because we've all signed up for the same thing in pursuit of making a difference, we have a shared understanding of the non-financial ways in which we expect to be compensated and appreciated. 
 
-I thought about titling this post: ***"Kinder nonprofit leadership through ruthless capitalism."*** But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
+But I'm here to tell you: **we're going to have a much better experience if we do the job we are paid to do.**
+
+I thought about titling this post: *"Kinder nonprofit leadership through ruthless capitalism."*  But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
 
 I read a lot of blogs about working at a nonprofit. Most of them function as peer support, usually using funny gifs or memes, predicated on the assumption that working for a nonprofit is a universally shared experience of thankless effort, unskilled management, interfering board members, unreasonable expectations, and laughable wages.
 
@@ -25,9 +27,8 @@ Why would you work unpaid overtime? We all do it, all the time. From our perspec
 
 (Don't get me wrong. There are good times and good reasons for working beyond your hours and beyond your scope - sometimes. And there are great bosses and great organizations that find ways to protect and value their people. But this is *in spite of* being set up to fail, not because of it.)
 
-**If we are giving away our labour for free, not only are we undervaluing ourselves but we are also communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.**
+**If we are giving away our labour, not only are we undervaluing ourselves but we are also communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.**
 
-*Free to the organization, that is - but potentially at great cost to our health, happiness, family life, etc.*
 <br>
 
 ### A contractual relationship brings joy
