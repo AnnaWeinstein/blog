@@ -1,7 +1,7 @@
 ---
 date: "2020-02-01T12:14:34+06:00"
 description: This is a short blog post about how to have better meetings.
-image: images/blog/post-5.jpg
+image: images/blog/post-5.png
 title: Please have better meetings
 categories: ["blog"]
 tags: ["nonprofit", "advice"]
@@ -19,10 +19,10 @@ Even if the agenda is as simple as "Review project xyz" or "Get to know each oth
 
 ### Summarize any decisions and tasks before the meeting ends
 
-Before everyone leaves the room/call, make sure that everyone understands and agrees on what was decided and any next steps or tasks they were assigned. This should be explicit, not just "Okay, does everyone understand what we've decided to do? Great." It can be verbal or written (I usually recommend written, and often follow it up afterward with the same written summary sent via email to all meeting participants.)
+Before everyone leaves the room/call, make sure that everyone understands and agrees on what was decided and any next steps or tasks they were assigned. This should be explicit, not just "Okay, everyone remember what we decided to do!" It can be verbal or written; I usually recommend written, and often follow it up afterward with the same written summary sent via email to all meeting participants.
 
 ### Set an end time, and stick to it
 
 Before the meeting begins, say when it is going to end. Then make sure you actually end it at that time, even if you aren't finished. Watch the clock, and use the last couple of minutes to decide together how you are going to cover the rest of the material if it's not enough time. This communicates basic respect for your colleagues' time, but it also helps build trust - if you say you will do something very simple like stick to your time boundaries, it shows that you remember what you have said you will do and can be trusted to do it. The reverse is also true - regularly keeping people beyond the time you said you would communicates a lack of respect for their schedule and other work, and is a sure-fire way to make people dread your meetings.
 
-Much has been written about how to have better meetings, but even before you can get to "basics," you have to get down to the real bedrock to build a good foundation.
+Much has been written about how to have better meetings, but sometimes you have to start with even simpler building blocks. 

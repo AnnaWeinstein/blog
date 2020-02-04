@@ -8,7 +8,7 @@ image: images/blog/DSC00514.jpg
 ---
 If you've made the decision to work at a nonprofit, it's likely because you want your job to have more meaning than just a paycheck. The pervasive narrative around working for a nonprofit is that we make a decision to accept low wages in exchange for the privilege of working for a cause that we care deeply about. Our assumption is that, because we've all signed up for the same thing in pursuit of making a difference, we have a shared understanding of the non-financial ways in which we expect to be compensated and appreciated. 
 
-But I'm here to tell you: **we're going to have a much better experience if we do the job we are paid to do.**
+**But I'm here to tell you: we're going to have a much better experience if we do the job we are paid to do.**
 
 I thought about titling this post: *"Kinder nonprofit leadership through ruthless capitalism."*  But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
 
