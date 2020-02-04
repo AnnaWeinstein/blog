@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : ""
+  title : "Hi! I'm Anna."
 
 # about
 about:
   enable : true
-  content : "My name is Anna Weinstein. Welcome to my website! I specialize in communications and marketing for nonprofit organizations and other mission-driven entities."
+  content : "Welcome to my website! I specialize in communications and marketing for nonprofit organizations and other mission-driven entities."
   button:
     enable : true
     label : "Read more"
