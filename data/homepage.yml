@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Welcome to my website! I specialize in communications and marketing for nonprofit organizations and other mission-driven entities."
+  content : "I specialize in communications and marketing for nonprofits and other mission-driven entities."
   button:
     enable : true
     label : "Read more"

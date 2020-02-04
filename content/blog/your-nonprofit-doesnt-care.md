@@ -6,14 +6,14 @@ categories: ["blog"]
 tags: ["nonprofit", "advice", "leadership"]
 image: images/blog/DSC00514.jpg
 ---
+If you've made the decision to work at a nonprofit, it's likely because you want your job to have more meaning than just a paycheck. The pervasive narrative around working for a nonprofit is that we make a decision to accept low wages in exchange for the privilege of working for a cause that we care deeply about. Our assumption is that, because we've all signed up for the same thing in pursuit of making a difference, we have a shared understanding of the non-financial ways in which we expect to be compensated and appreciated. But I'm here to tell you: **we're going to have a much better experience if we do the job we are paid to do.**
 
-If you've made the decision to work at a nonprofit, it's likely because you want your job to have more meaning than just a paycheck. The pervasive narrative around working for a nonprofit is that we make a decision to accept low wages in exchange for the privilege of working for a cause that we care deeply about. Our assumption is that, because we've all signed up for the same thing in pursuit of making a difference, we have a shared understanding of the non-financial ways in which we expect to be compensated and appreciated. But I'm here to tell you: <b>we're going to have a much better experience if we do the job we are paid to do.</b>
-
-I thought about titling this post: <b><i>"Kinder nonprofit leadership through ruthless capitalism." </b></i> But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
+I thought about titling this post: ***"Kinder nonprofit leadership through ruthless capitalism."*** But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
 
 I read a lot of blogs about working at a nonprofit. Most of them function as peer support, usually using funny gifs or memes, predicated on the assumption that working for a nonprofit is a universally shared experience of thankless effort, unskilled management, interfering board members, unreasonable expectations, and laughable wages.
 
 Don't get me wrong, these posts are funny and satisfying. But they are also setting us up for failure and resentment.
+<br>
 
 ### "If you care about the mission, the money shouldn't matter"
 
@@ -23,20 +23,28 @@ A friend of mine was recently trying to negotiate taking vacation days during an
 
 Why would you work unpaid overtime? We all do it, all the time. From our perspective, we might feel like if we don't work extra to finish everything that needs to be done, we're letting down the team and letting down our mission. But the organization is not getting the message that it can't be done in the time and for the money allotted to it - it's getting the message that whatever resources are being directed toward are the right resources, because everything is ticking along just fine. The organization has no way of evaluating the human/morale cost of anything extra that we give.
 
-(Don't get me wrong. There are good times and good reasons for working beyond your hours and beyond your scope - sometimes. And there are great bosses and great organizations that find ways to protect and value their people. But this is <i>in spite of </i> being set up to fail, not because of it.)
+(Don't get me wrong. There are good times and good reasons for working beyond your hours and beyond your scope - sometimes. And there are great bosses and great organizations that find ways to protect and value their people. But this is *in spite of* being set up to fail, not because of it.)
 
-#### If we are giving away our labour for free*, not only are we undervaluing ourselves but we are also communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.
+**If we are giving away our labour for free, not only are we undervaluing ourselves but we are also communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.**
 
-*<i>Free to the organization, that is - but potentially at great cost to our health, happiness, family life, etc.</i>
+*Free to the organization, that is - but potentially at great cost to our health, happiness, family life, etc.*
+<br>
 
-### Keep a contractual relationship clean
+### A contractual relationship brings joy
 
 Most of the time, nonprofit employees are drawn from an existing membership pool (or at least, people are usually interested in applying to work for an organization with which they already have at least some affinity). This can help create a strong culture, but it also creates potential pitfalls:
 
-1. When you care deeply about your coworkers and your work, you may feel that the organization owes it to you to care about you in a similar personal way.
-2. If the work relationship doesn't work out, you are more likely to feel it as an attack on or loss to your personal identity. *How can you cancel my project? I thought we were friends!*
+#### 1. When you care deeply about your coworkers and your work, you may feel that the organization owes it to you to care about you in a similar personal way.
 
-Whether or not you are genuinely friends with your boss and coworkers, the organization's ultimate responsibility will always be to its mission - which means to its funding.
+The reality is that while organizations do care about the happiness and well-being of their employees, the organization's ultimate responsibility will always be to its mission - which almost always means to its funding. Being upfront about this can help decisions like project cancellations, layoffs, etc. feel much less personal. And in turn, it can help us as employees feel more empowered to set boundaries that keep our work healthy and mutually beneficial.
+
+#### 2. If the work relationship doesn't work out, you are more likely to feel it as an attack on or loss to your personal identity. 
+
+When we are working on something we are deeply connected to, it can feel like we are building an extension of ourselves. If for whatever reason we are prevented from continuing that work, it can feel like we are being cut off from that part of ourselves, or like that part of our soul/heart/personality is not appreciated. This can send us down a spiral of low self-esteem and loss of heart to continue the work. But the more we can differentiate our personal passion for something from our contractually defined responsibilities toward it, the more we will be able to continue to nourish that passion even through unexpected changes in our work relationship to it.
+<br>
+
+Build your personal relationships, absolutely. But build them around the professional responsibilities defined in your contract, and when things feel ambiguous, fall back on that clarity.
+<br>
 
 ### Heroes don't make good long-term project leads
 

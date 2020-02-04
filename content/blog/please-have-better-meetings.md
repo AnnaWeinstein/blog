@@ -7,7 +7,7 @@ categories: ["blog"]
 tags: ["nonprofit", "advice"]
 ---
 
-Did you know that meetings don't have to be the worst part of your job? Here are some quick tips.
+Did you know that meetings don't have to be terrible? Here are some quick tips.
 
 ### Begin and end your meeting
 

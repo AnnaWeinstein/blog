@@ -3,7 +3,7 @@ baseURL = "https://vigorous-payne-028fca.netlify.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Anna Weinstein"
 
 # css plugins
 [[params.plugins.css]]
@@ -80,6 +80,10 @@ enable = true
 preloader = "" # use png, jpg, svg or gif format
 
 # social site
+
+[[params.social]]
+URL = "https://www.linkedin.com/in/anna-weinstein-785a747/"
+icon = "ti-linkedin"
 
 [[params.social]]
 URL = "https://github.com/AnnaWeinstein/"
