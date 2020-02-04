@@ -37,7 +37,7 @@ Most of the time, nonprofit employees are drawn from an existing membership pool
 
 #### 1. When you care deeply about your coworkers and your work, you may feel that the organization owes it to you to care about you in a similar personal way.
 
-The reality is that while organizations do care about the happiness and well-being of their employees, the organization's ultimate responsibility will always be to its mission - which almost always means to its funding. Being upfront about this can help decisions like project cancellations, layoffs, etc. feel much less personal. And in turn, it can help us as employees feel more empowered to set boundaries that keep our work healthy and mutually beneficial.
+The reality is that while organizations do care about the happiness and well-being of their employees, the organization's ultimate responsibility will always be to its mission - which almost always means to its funding. This can be painful for the organization too, because in all likelihood they *do* care about you at an individual level! Knowing that a decision based on the needs and realities of the organization will be a very personal hurt does not feel good for your manager either. Relating to the job as it is defined by your contract can help decisions like project cancellations, layoffs, etc. feel much less personal on both sides of the interaction. And in turn, it can help us as employees feel more empowered to set boundaries that keep our work healthy and mutually beneficial.
 
 #### 2. If the work relationship doesn't work out, you are more likely to feel it as an attack on or loss to your personal identity. 
 
