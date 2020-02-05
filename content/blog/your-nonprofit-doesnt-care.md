@@ -2,6 +2,7 @@
 title: "Your nonprofit doesn't care about you (and that's good)"
 author: "Anna Weinstein"
 date: 2020-02-02T21:13:14-05:00
+description: Lessons I've learned about maintaining a joyful relationship to meaningful work.
 categories: ["blog"]
 tags: ["nonprofit", "advice", "leadership"]
 image: images/blog/DSC00514.jpg
