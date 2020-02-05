@@ -12,42 +12,44 @@ If you've made the decision to work at a nonprofit, it's likely because you want
 
 I thought about titling this post: *"Kinder nonprofit leadership through ruthless capitalism."*  But it's not just about leadership - it's also about being a more generous team member and satisfied employee, regardless of your place in the organization.
 
-I read a lot of blogs about working at a nonprofit. Most of them function as peer support, usually using funny gifs or memes, predicated on the assumption that working for a nonprofit is a universally shared experience of thankless effort, unskilled management, interfering board members, unreasonable expectations, and laughable wages.
-
-Don't get me wrong, these posts are funny and satisfying. But they are also setting us up for failure and resentment.
+I've seen a number of articles going around lately arguing that money shouldn't be the most important thing about a job. People often regret leaving good jobs with good benefits and good work cultures for a marginally higher salary. In the world of mission-driven organizations, we are often much more willing to sacrifice salary for the sake of working on something we care about. But convincing ourselves that this means that the money is not important is not only wrong - it is also setting us up for failure and resentment.
 <br>
 
-### "If you care about the mission, the money shouldn't matter"
+### The money matters
 
 A friend of mine was recently trying to negotiate taking vacation days during an especially busy time for her organization. Her manager told her that it was a problem for the rest of the team for her to take that time off, because they would get behind on their deliverables, and there wasn't someone prepped to take over her role during the time she would be gone. She decided to work overtime over the holidays, to get ahead on the project and prepare handover materials so that everything would be documented for her teammate to easily step in - and she succeeded in accomplishing all of that, while everyone else was on holiday. She came back to her manager to say that she had worked a lot of uncompensated overtime to take care of the things he had expressed concern about, and could she now book her tickets for her time off? His response:
 
 "Well, you didn't have to do that." (As in, no, you still can't have that time off.)
 
+And when she asked about getting paid for the overtime hours instead, she was told: "If you really care about the mission, the money shouldn't matter.
+
 Why would you work unpaid overtime? We all do it, all the time. From our perspective, we might feel like if we don't work extra to finish everything that needs to be done, we're letting down the team and letting down our mission. But the organization is not getting the message that it can't be done in the time and for the money allotted to it - it's getting the message that whatever resources are being directed toward are the right resources, because everything is ticking along just fine. The organization has no way of evaluating the human/morale cost of anything extra that we give.
 
-(Don't get me wrong. There are good times and good reasons for working beyond your hours and beyond your scope - sometimes. And there are great bosses and great organizations that find ways to protect and value their people. But this is *in spite of* being set up to fail, not because of it.)
+Don't get me wrong. There are good times and good reasons for working beyond your hours and beyond your scope - sometimes. And there are great bosses and great organizations that find ways to protect and value their people. But this is *in spite of* being set up to fail, not because of it.
 
-**If we are giving away our labour, not only are we undervaluing ourselves but we are also communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.**
+**When we give away our labour for free, we are communicating that a project can be reasonably expected to require less money (waged hours) than it truly does. And that creates unsustainable projects and impossible (un)deliverables.**
 
 <br>
 
 ### A contractual relationship brings joy
 
-Most of the time, nonprofit employees are drawn from an existing membership pool (or at least, people are usually interested in applying to work for an organization with which they already have at least some affinity). This can help create a strong culture, but it also creates potential pitfalls:
+Most of the time, nonprofit employees are drawn from an existing membership pool (or at least, people are usually interested in applying to work for an organization with which they already have at least some affinity). This can help create a strong culture, but it also often creates a situation where employees conflate their role with their sense of self. When roles are required to change because of funding, revisioning, or whatever else, that conflation makes the change feel like a personal affront. 
 
-#### 1. When you care deeply about your coworkers and your work, you may feel that the organization owes it to you to care about you in a similar personal way.
+An employment contract specifies what you are hired to *do,* not who are hired to *be* (and if that isn't clear in your contract, you need to talk to HR). This does NOT mean that you can't love your job or fulfill it with all of your passion and inspiration! But it does mean a couple of very important things:
 
-The reality is that while organizations do care about the happiness and well-being of their employees, the organization's ultimate responsibility will always be to its mission - which almost always means to its funding. This can be painful for the organization too, because in all likelihood they *do* care about you at an individual level! Knowing that a decision based on the needs and realities of the organization will be a very personal hurt does not feel good for your manager either. Relating to the job as it is defined by your contract can help decisions like project cancellations, layoffs, etc. feel much less personal on both sides of the interaction. And in turn, it can help us as employees feel more empowered to set boundaries that keep our work healthy and mutually beneficial.
+#### 1. Your job is not your self
 
-#### 2. If the work relationship doesn't work out, you are more likely to feel it as an attack on or loss to your personal identity. 
+When we are working on something we are deeply connected to, it can feel like we are building an extension of ourselves. If for whatever reason we are prevented from continuing that work, it can feel like we are being cut off from that part of ourselves, or like that part of our soul/heart/personality is not appreciated. It can feel like an an attack on or loss to our personal identity. This can send us down a spiral of low self-esteem and loss of heart to continue the work. But the more we can differentiate our personal passion for something from our contractually defined responsibilities toward it, the more we will be able to continue to nourish that passion even through unexpected changes in our work relationship to it.
 
-When we are working on something we are deeply connected to, it can feel like we are building an extension of ourselves. If for whatever reason we are prevented from continuing that work, it can feel like we are being cut off from that part of ourselves, or like that part of our soul/heart/personality is not appreciated. This can send us down a spiral of low self-esteem and loss of heart to continue the work. But the more we can differentiate our personal passion for something from our contractually defined responsibilities toward it, the more we will be able to continue to nourish that passion even through unexpected changes in our work relationship to it.
+#### 2. A layoff is not an insult  
+
+When you care deeply about your coworkers and your work, you may feel that the organization owes it to you to care about you in a similar personal way. The reality is that while organizations do care about the happiness and well-being of their employees, the organization's ultimate responsibility will always be to its mission - which almost always means to its funding. This can be painful for the organization too, because in all likelihood they *do* care about you at an individual level! Knowing that a decision based on the needs and realities of the organization will be a very personal hurt does not feel good for your manager either. Relating to the job as it is defined by your contract can help decisions like project cancellations, layoffs, etc. feel much less personal on both sides of the interaction. And in turn, it can help us as employees feel more empowered to set boundaries that keep our work healthy and mutually beneficial.
 <br>
 
 Build your personal relationships, absolutely. But build them around the professional responsibilities defined in your contract, and when things feel ambiguous, fall back on that clarity.
 <br>
 
-### Heroes don't make good long-term project leads
+### Heroes can't go the distance
 
 My mother-in-law says that if she ever feels like a project will fall apart if she leaves, she just leaves right on the spot - because why spend energy holding together something that is relying on individual heroism to continue? At first I thought this was a pretty brutal way to move through a life of dedicated volunteerism (which she does).
 
