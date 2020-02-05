@@ -2,7 +2,8 @@
 title: "Your nonprofit doesn't care about you (and that's good)"
 author: "Anna Weinstein"
 date: 2020-02-02T21:13:14-05:00
-description: Lessons I've learned about maintaining a joyful relationship to meaningful work.
+metadata: "Lessons I've learned about maintaining a joyful relationship to meaningful work."
+description: "Lessons I've learned about maintaining a joyful relationship to meaningful work."
 categories: ["blog"]
 tags: ["nonprofit", "advice", "leadership"]
 image: images/blog/DSC00514.jpg
@@ -22,7 +23,7 @@ A friend of mine was recently trying to negotiate taking vacation days during an
 
 "Well, you didn't have to do that." And refused.
 
-And when she asked about getting paid for the overtime hours instead, she was told: "If you really care about the mission, the money shouldn't matter.""
+And when she asked about getting paid for the overtime hours instead, she was told: "If you really care about the mission, the money shouldn't matter."
 
 Why would you work unpaid overtime? We all do it, all the time. From our perspective, we might feel like if we don't work extra to finish everything that needs to be done, we're letting down the team and letting down our mission. But when we volunteer extra hours, the organization is not getting the message that the work in question can't be done in the time and budget allotted to it. Instead, it's getting the message that the allotted resources are sufficient, because everything is ticking along just fine. The organization has no way of evaluating the human/morale cost of anything extra that we give.
 
