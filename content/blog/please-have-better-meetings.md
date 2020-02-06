@@ -15,14 +15,14 @@ This sounds really stupid, because obviously things begin and end. But having cl
 
 ### Have an agenda
 
-Even if the agenda is as simple as "Review project xyz" or "Get to know each other," it is a simple kindness to let people know what the meeting is about. This helps ensure that people are prepared, that the right people can be in the room, and that the meeting doesn't scope-creep itself into confusion ("Wait, why are we talking about the new website? I thought this meeting was about project xyz? [Colleague] should really be here if we're going to talk about the new website.")
+Even if the agenda is as simple as "Review project xyz" or "Get to know each other," it is a simple kindness to let people know what the meeting is about. This helps ensure that people are prepared, that the right people can be in the room, and that the meeting doesn't scope-creep itself into confusion. *("Wait, why are we talking about the new website? I thought this meeting was about project xyz? [Colleague] should really be here if we're going to talk about the new website.")*
 
 ### Summarize any decisions and tasks before the meeting ends
 
-Before everyone leaves the room/call, make sure that everyone understands and agrees on what was decided and any next steps or tasks they were assigned. This should be explicit, not just "Okay, everyone remember what we decided to do!" It can be verbal or written; I usually recommend written, and often follow it up afterward with the same written summary sent via email to all meeting participants.
+Before everyone leaves the room/call, make sure that everyone understands and agrees on what was decided and any next steps or tasks they were assigned. This should be explicit, not just "Okay, everyone remember what we decided to do!" It can be verbal or written; as a general rule I recommend written, and I often follow up with the same written summary emailed to all meeting participants.
 
 ### Set an end time, and stick to it
 
-Before the meeting begins, say when it is going to end. Then make sure you actually end it at that time, even if you aren't finished. Watch the clock, and use the last couple of minutes to decide together how you are going to cover the rest of the material if it's not enough time. This communicates basic respect for your colleagues' time, but it also helps build trust - if you say you will do something very simple like stick to your time boundaries, it shows that you remember what you have said you will do and can be trusted to do it. The reverse is also true - regularly keeping people beyond the time you said you would communicates a lack of respect for their schedule and other work, and is a sure-fire way to make people dread your meetings.
+Before the meeting begins, say when it is going to end. Then make sure you actually end it at that time, even if you aren't finished. Watch the clock, and use the last few minutes to decide together how you are going to cover the rest of the material. This communicates basic respect for your colleagues' time, but it also helps build trust: if you say you will do something very simple like stick to your time boundaries, it shows that you remember what you have said you will do and can be trusted to do it. The reverse is also true: regularly keeping people beyond the time you said you would communicates a lack of respect for their schedule and other work, and is a sure-fire way to make people dread your meetings.
 
-Much has been written about how to have better meetings, but sometimes you have to start with even simpler building blocks. 
+Much has been written about how to have better meetings, but sometimes it's helpful to remember the very simplest building blocks. 
