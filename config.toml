@@ -64,7 +64,7 @@ email = "anna@shotwell.ca"
 author = "Anna Weinstein"
 description = "Anna Weinstein's professional portfolio and blog"
 # google analitycs
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-157911161-1"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 
@@ -72,7 +72,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 # contact
 [params.contact]
 enable = true
-form_action = "#" # contact form works with : https://formspree.io
+form_action = "https://formspree.io/xrgqlppo" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
