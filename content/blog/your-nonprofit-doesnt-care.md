@@ -37,7 +37,7 @@ Don't get me wrong. There are good times and good reasons for working beyond you
 
 Most of the time, nonprofit employees are drawn from an existing membership pool (or at least, people are usually interested in applying to work for an organization with which they already have at least some affinity). This can help create a strong work culture, but it also often creates a situation where employees conflate their role with their sense of self. When roles are required to change because of funding, revisioning, or whatever else, that conflation makes the change feel like a personal affront. 
 
-An employment contract specifies what you are hired to *do,* not who are hired to *be* (and if that isn't clear in your contract, you need to talk to HR). This does NOT mean that you can't love your job or fulfill it with all of your passion and inspiration! But it does mean a couple of very important things:
+An employment contract specifies what you are hired to *do,* not who you are hired to *be* (and if that isn't clear in your contract, you need to talk to HR). This does NOT mean that you can't love your job or fulfill it with all of your passion and inspiration! But it does mean a couple of very important things:
 
 #### 1. Your job is not your self
 
