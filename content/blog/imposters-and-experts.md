@@ -5,6 +5,7 @@ image: images/blog/post-5.jpg
 title: Imposters and experts
 categories: ["blog"]
 tags: ["marketing", "tech"]
+draft: true
 ---
 
 I was once on the phone with a salesman for a commercial database product, trying to determine whether it was something I wanted to purchase and adapt for the organization I was working with at the time. It was not our first conversation, and we were pretty deep in the weeds of whether certain specifications were available. Feeling like I was getting pretty generic and vague (but emphatic!) reassurances that the very expensive product would meet all our needs, I asked a pretty straightforward question. The salesman responded: "Well, since you used the term 'API' correctly, I can now tell you that actually we won't be able to meet your specifications." 
