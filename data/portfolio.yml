@@ -27,6 +27,10 @@ item:
   - image : "images/portfolio/item-7.png"
     project_url : "https://annaweinstein.info/images/portfolio/item-7.png"
     category: "design"
+    
+  - image : "images/portfolio/item-8.jpg"
+    project_url : "https://book.engagingmultiples.com/"
+    category: "web development"
 
 # client logo slider
 clients_logo_slider:
