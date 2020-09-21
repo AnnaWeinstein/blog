@@ -1,5 +1,13 @@
 # portfolio item
 item:
+  - image : "images/portfolio/item-8.jpg"
+    project_url : "https://book.engagingmultiples.com/"
+    category: "web development"
+    
+  - image : "images/portfolio/item-9.png"
+    project_url : "https://radicalpublishersalliance.com/"
+    category: "web development"
+    
   - image : "images/portfolio/item-1.png"
     project_url : "https://annaweinstein.info/images/portfolio/item-1.png"
     category: "design" 
@@ -11,26 +19,22 @@ item:
   - image : "images/portfolio/item-3.png"
     project_url : "https://youtu.be/OdUrP6Ilxcw"
     category: "audio/video"
-      
-  - image : "images/portfolio/item-4.png"
-    project_url : "https://annaweinstein.info/images/portfolio/item-4.png"
-    category: "design"
+    
+  - image : "images/portfolio/item-6.png"
+    project_url : "http://richardreoch.info/"
+    category: "web development"
       
   - image : "images/portfolio/item-5.png"
     project_url : "https://podcasts.google.com/?feed=aHR0cHM6Ly9jb21tdW5pY2F0aW9uczEyNTkwLnBvZG9tYXRpYy5jb20vcnNzMi54bWw&episode=aHR0cHM6Ly9jb21tdW5pY2F0aW9uczEyNTkwLnBvZG9tYXRpYy5jb20vZW50cnkvMjAxNy0wNC0yMVQxMl8yMF8zNy0wN18wMA&hl=en-CA"
     category: "audio/video"
-
-  - image : "images/portfolio/item-6.png"
-    project_url : "http://richardreoch.info/"
-    category: "web development"
   
   - image : "images/portfolio/item-7.png"
     project_url : "https://annaweinstein.info/images/portfolio/item-7.png"
     category: "design"
     
-  - image : "images/portfolio/item-8.jpg"
-    project_url : "https://book.engagingmultiples.com/"
-    category: "web development"
+  - image : "images/portfolio/item-4.png"
+    project_url : "https://annaweinstein.info/images/portfolio/item-4.png"
+    category: "design"
 
 # client logo slider
 clients_logo_slider:
